@@ -123,6 +123,10 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/105695077/169218313-8f894c0f-e335-4a2d-a5e0-0252230c0751.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169218824-8e6755bb-833a-4899-bc1a-6dc0fd4ddebe.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169218858-02ff1add-aef0-4429-8b6d-069482a662f1.png)
+
 
 
 
