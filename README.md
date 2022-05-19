@@ -271,7 +271,9 @@ t= 2
 16) Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
 
 R= 1/G ⇒1/0,1= 10Ω
+
 R= 1/G ⇒1/0,5= 2Ω
+
 R= 1/G ⇒1/0,02= 50Ω
 
 18) ¿En qué principio se basan los generadores eléctricos?:
@@ -295,7 +297,7 @@ Inducción electromagnética
 1800*0.1=180Ω ⇒1800+180=1980Ω máxima
 
 1800*0.1=180Ω ⇒1800-180=1640Ω mínima
-23) 
+
 24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
 (a) café, negro, negro, oro 
@@ -305,7 +307,7 @@ Inducción electromagnética
 Solución: 10Ω ± 5%
 Solución: 5100000Ω ± 10%
 Solución: 68Ω ± 5%
-25) 
+
 26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
 
 (a) rojo, gris, violeta, rojo, café
@@ -315,9 +317,9 @@ Solución: 68Ω ± 5%
 Solución: 27,8kΩ ± 1%
 Solución: 60,4kΩ ± 1%
 Solución: 9,31kΩ ± 1%
-27) 
+
 28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
-29) 
+
 30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
 (a) 4R7J 
@@ -331,7 +333,6 @@ b) 5602 MΩ
 c) 1501 Ω ± 1%
 
 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva:
-
 
 
 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?:
