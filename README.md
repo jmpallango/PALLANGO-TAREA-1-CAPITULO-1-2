@@ -353,23 +353,29 @@ El R5 (resistor 5) siempre tendra corriente sin importar donde se coloque los in
 
 36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador:
 
+![image](https://user-images.githubusercontent.com/105695077/169327472-93d49c0b-9fcc-4edf-9e71-bce9d996f226.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169327513-dcf3f3e8-42eb-4846-9dea-10295b8abe4e.png)
 
 38) Explique cómo mediría la resistencia de R2 en la figura 2-72:
 
+![image](https://user-images.githubusercontent.com/105695077/169327589-3f4550d8-b346-42c4-9238-346db7a19181.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169327620-72de1ec5-90e1-499b-b0a6-4b6bcd0a2fcc.png)
 
 40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor:
 
+![image](https://user-images.githubusercontent.com/105695077/169327687-5f89caf0-406a-4344-8471-7685762de685.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169327716-57a05356-9943-437d-9be4-12420db2c0a5.png)
 
 42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70:
 
-
+![image](https://user-images.githubusercontent.com/105695077/169327821-37910a14-baa4-43a3-a66a-f9adc06c5da5.png)
 
 44) ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?:
 
-
+![image](https://user-images.githubusercontent.com/105695077/169327938-18b0c0be-a05d-4c9d-9dc6-df8580c3bf9a.png)
 
 10 OHMS.
 
