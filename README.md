@@ -239,27 +239,23 @@ Resolución
 
 Capitulo 2:
 
+1) 
 2) ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
-
-
+3) 
 4) ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
-
-
+5) 
 6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-
-
-8) ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito? 
-
-
+7) 
+8) Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
+9)  
 10) Determine la corriente en cada uno de los siguientes casos:
-
-
+11) 
 12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
-
 t= Q/I t= Q/I⇒ 10C/5A
 t= 2
-5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
-Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
+14) 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
+15) 
+16) Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
 
 R= 1/G ⇒1/0,1= 10Ω
 R= 1/G ⇒1/0,5= 2Ω
