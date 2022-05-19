@@ -13,7 +13,9 @@ TAREA 1: Capitulo 1 y 2
 
 
 
- ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELECTRICOS 
+ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELECTRICOS
+
+ESTUDIANTE: JOSÉ MAURICIO PALLANGO UNAPANTA
 
 MGS. DARWIN OMAR ALULEMA FLORES
 
@@ -36,3 +38,13 @@ Objetivos Específicos:
 •	Observar las diferentes herramientas utilizadas al momento de trabajar con circuitos eléctricos.
 
 # Marco Teórico: (Capitulo 1) 
+
+
+![image](https://user-images.githubusercontent.com/105695077/169201705-8c4e6c2a-500f-4e44-90f7-20b9184b55a5.png)
+
+
+
+
+
+
+
