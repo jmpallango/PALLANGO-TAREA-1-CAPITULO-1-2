@@ -384,3 +384,18 @@ El R5 (resistor 5) siempre tendra corriente sin importar donde se coloque los in
 46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?:
 
 La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.999 recuentos de solución
+
+# VIDEO:
+
+
+
+# CONCLUSIONES:
+
+•	En conclusión un circuito eléctrico es un medio para poder hacer que exista una circulación de electrones y que estos me desarrollen un trabajo.
+•	Existen varios tipos de circuitos eléctricos dependiendo de varios factores, como son tipo de corriente eléctrica, tipo de carga, tipo de conexión
+•	Todo equipo o herramienta debe ser utilizado de la mejor manera para evitar accidentes y perjudicar el trabajo que se esté desarrollando.
+
+# BIBLIOGRAFÍA:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
