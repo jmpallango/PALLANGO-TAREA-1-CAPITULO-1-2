@@ -9,11 +9,13 @@
 
 
 
-                                               TAREA 1: Capitulo 1 y 2 
+                                              TAREA 1: Capitulo 1 y 2 
 
 
 
- ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELECTRICOS 
+ ASIGNATURA: 
+ 
+ FUNDAMENTOS DE CIRCUITOS ELECTRICOS 
 
      MGS. DARWIN OMAR ALULEMA FLORES
      
