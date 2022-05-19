@@ -253,17 +253,21 @@ Capitulo 2:
 12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
 t= Q/I t= Q/I⇒ 10C/5A
 t= 2
-14) 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
+13) .
+14) 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?: 
 15) 
 16) Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
 
 R= 1/G ⇒1/0,1= 10Ω
 R= 1/G ⇒1/0,5= 2Ω
 R= 1/G ⇒1/0,02= 50Ω
-¿En qué principio se basan los generadores eléctricos?:
+17) .
+18) ¿En qué principio se basan los generadores eléctricos?:
 Inducción electromagnética
-Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
-Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
+19) 
+20) Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
+21) 
+22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
 
 (a) 27kΩ±5%
 
@@ -276,7 +280,8 @@ Encuentre las resistencias mínima y máxima dentro de los límites de toleranci
 1800*0.1=180Ω ⇒1800+180=1980Ω máxima
 
 1800*0.1=180Ω ⇒1800-180=1640Ω mínima
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
+23) 
+24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
 (a) café, negro, negro, oro 
 (b) verde, café, verde, plata
@@ -285,8 +290,8 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 Solución: 10Ω ± 5%
 Solución: 5100000Ω ± 10%
 Solución: 68Ω ± 5%
-
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
+25) 
+26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
 
 (a) rojo, gris, violeta, rojo, café
 (b) azul, negro, amarillo, oro, café
@@ -295,8 +300,10 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 Solución: 27,8kΩ ± 1%
 Solución: 60,4kΩ ± 1%
 Solución: 9,31kΩ ± 1%
-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
-Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
+27) 
+28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
+29) 
+30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
 (a) 4R7J 
 (b) 5602M 
