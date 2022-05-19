@@ -165,7 +165,9 @@ Capitulo 1:
 
 (a) (3.2x10^12)-(1.1x10^12) (b) (2.6x10^8)-(1.3x10^7) (c) (1.5x10^-12)-(8x10^-13)
 
-![image](https://user-images.githubusercontent.com/105695077/169223319-c5b894f6-5efe-4e0b-9e9b-bb096ca876a3.png)
+.(3.2x10^12)-(1.1x10^12)= 2.1x10^12
+.(2.6x10^8)-(1.3x10^7)= 2.47x10^8
+.(1.5x10^-12)-(8x10^-13)=7x10^-13
 
 12) Realice las siguientes divisiones:
 
