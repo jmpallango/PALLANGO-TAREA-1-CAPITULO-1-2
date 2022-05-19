@@ -247,29 +247,41 @@ Capitulo 2:
 
 ![image](https://user-images.githubusercontent.com/105695077/169324262-f1dc3249-b1a3-4c47-b6e2-e2ba71e73d48.png)
 
-7) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-8) 
-9) Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-10)  
-11) Determine la corriente en cada uno de los siguientes casos:
-12) 
-13) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
+6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105695077/169324462-58378d64-2e24-4207-8163-736574df8540.png)
+
+8) Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/105695077/169324573-d29cb753-c064-42d2-ba5f-067937604712.png)
+
+10) Determine la corriente en cada uno de los siguientes casos:
+
+![image](https://user-images.githubusercontent.com/105695077/169324722-3aa3430b-efd1-4046-93cb-1af12d6e19a8.png)
+
+12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
+
 t= Q/I t= Q/I⇒ 10C/5A
 t= 2
-13) .
+
 14) 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?: 
-15) 
+
+![image](https://user-images.githubusercontent.com/105695077/169325001-13dccf3d-1473-4940-9873-7e2737907a38.png)
+
 16) Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
 
 R= 1/G ⇒1/0,1= 10Ω
 R= 1/G ⇒1/0,5= 2Ω
 R= 1/G ⇒1/0,02= 50Ω
-17) .
+
 18) ¿En qué principio se basan los generadores eléctricos?:
+
 Inducción electromagnética
-19) 
+
 20) Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
-21) 
+
+![image](https://user-images.githubusercontent.com/105695077/169325227-c7604d20-fd71-49a3-8f66-5b5f1c6f8330.png)
+
 22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
 
 (a) 27kΩ±5%
