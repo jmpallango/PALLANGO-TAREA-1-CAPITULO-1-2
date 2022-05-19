@@ -1,6 +1,6 @@
 # PALLANGO-TAREA-1-CAPITULO-1-2
- 
-**UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE**
+
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-                                        **TAREA 1: Capitulo 1 y 2** 
+                                        # TAREA 1: Capitulo 1 y 2 
 
 
 
