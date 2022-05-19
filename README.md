@@ -210,9 +210,31 @@ Resolución
 
 24) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-(a) 2.5 x10^-12 A (b) 8 x10^9 Hz (c)4.7 x10^3 Ω
+(a) 2.5 x10^-12 A (b) 8 x10^9 Hz (c)4.7 x10^3Ω
 
 ![image](https://user-images.githubusercontent.com/105695077/169227202-d9f90dab-bd1f-4fc2-b866-3228d6344645.png)
+
+26) Exprese cada cantidad en notación de ingeniería:
+
+(a) 5 uA (b) 43 mV (c) 275 kΩ (d) 10 MW
+
+![image](https://user-images.githubusercontent.com/105695077/169227932-452979aa-39cb-4d42-916b-daf947184745.png)
+
+28) Determine lo siguiente:
+
+(a) El número de microamperes en 1 miliampere 
+(b) El número de milivolts en 0.05 kilovolts 
+(c) El número de megohms en 0.02 kilohms 
+(d) El número de kilowatts en 155 miliwatts
+
+(a) 1x 10^-6 µA = 0.001 x10^-3 mA
+(b) 0.05 x10^3 kV ----> 50 x10^-3 mV
+(c) 0.02 x10^3 kΩ = 0.00002 x10^6 MΩ
+(d) 155 x10 ^-3 kw = 0.155 x10^3
+
+30) Realice las siguientes operaciones:
+
+![image](https://user-images.githubusercontent.com/105695077/169228663-053513d6-3437-4c1c-8808-3c9950b4019f.png)
 
 
 
