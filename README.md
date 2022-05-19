@@ -81,6 +81,11 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/105695077/169209251-a043e2f8-7ed1-491c-95d3-5f540bfc5161.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169210669-01f26c24-6db6-4b88-8e8b-6f2e5e915753.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169210704-def76dd6-3230-4afa-b4b9-e1cddb36e612.png)
+
+
 
 
 
