@@ -137,7 +137,7 @@ Objetivos Específicos:
 
 Capitulo 1:
 
-2) Exprese cada número fraccionario en notación científica:
+2)Exprese cada número fraccionario en notación científica:
 
 (a) 1/500 (b) 1/2000 (c) 1/5,000,000
 
@@ -238,86 +238,59 @@ Resolución
 
 Capitulo 2:
 
-2. ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
+¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
+¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
+Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
+Determine la corriente en cada uno de los siguientes casos:
 
+¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
 
-4. ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
+t= Q/I t= Q/I⇒ 10C/5A
+t= 2
+5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
+Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
 
-
-6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-
-8. ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-
-10. Determine la corriente en cada uno de los siguientes casos:
-
-
-12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
-
-• t= Q/I t= Q/I⇒ 10C/5A
-
-• t= 2
-
-14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
-
-
-
-16. Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
-
-• R= 1/G ⇒1/0,1= 10Ω
-
-• R= 1/G ⇒1/0,5= 2Ω
-
-• R= 1/G ⇒1/0,02= 50Ω
-
-18. ¿En qué principio se basan los generadores eléctricos?:
-
+R= 1/G ⇒1/0,1= 10Ω
+R= 1/G ⇒1/0,5= 2Ω
+R= 1/G ⇒1/0,02= 50Ω
+¿En qué principio se basan los generadores eléctricos?:
 Inducción electromagnética
+Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
+Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
 
-20. Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
-
-
-
-22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
-
-• (a) 27kΩ±5%
+(a) 27kΩ±5%
 
 27000*0.05=135Ω ⇒27000+135=27135Ω máxima
 
 27000*0.05=135Ω ⇒27000-135=26865Ω mínima
 
-• (b) 1.8kΩ±10%
+(b) 1.8kΩ±10%
 
 1800*0.1=180Ω ⇒1800+180=1980Ω máxima
 
 1800*0.1=180Ω ⇒1800-180=1640Ω mínima
-
-24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
+Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
 (a) café, negro, negro, oro 
 (b) verde, café, verde, plata
 (c) azul, gris, negro, oro
 
-• Solución: 10Ω ± 5%
+Solución: 10Ω ± 5%
+Solución: 5100000Ω ± 10%
+Solución: 68Ω ± 5%
 
-• Solución: 5100000Ω ± 10%
-
-• Solución: 68Ω ± 5%
-
-26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
+Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
 
 (a) rojo, gris, violeta, rojo, café
 (b) azul, negro, amarillo, oro, café
 (c) blanco, naranja, café, café, café
 
-• Solución: 27,8kΩ ± 1%
-
-• Solución: 60,4kΩ ± 1%
-
-• Solución: 9,31kΩ ± 1%
-
-28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
-
-30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
+Solución: 27,8kΩ ± 1%
+Solución: 60,4kΩ ± 1%
+Solución: 9,31kΩ ± 1%
+El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
+Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
 (a) 4R7J 
 (b) 5602M 
