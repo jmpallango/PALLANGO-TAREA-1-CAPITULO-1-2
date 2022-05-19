@@ -238,45 +238,53 @@ Resolución
 
 Capitulo 2:
 
-¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
-image
+2) ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
 
-¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
-image
 
-Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-image
 
-¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-image
+4) ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
 
-Determine la corriente en cada uno de los siguientes casos:
-image
 
-¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T
+
+6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+
+
+8) ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
+
+
+
+10) Determine la corriente en cada uno de los siguientes casos:
+
+
+
+12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
+
 • t= Q/I t= Q/I⇒ 10C/5A
 
 • t= 2
 
-5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
-image
+14) 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?:
 
-Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S
+
+
+16) Encuentre la resistencia correspondiente a las siguientes conductancias: (a) 0.1S (b) 0.5S (c) 0.02S:
+
 • R= 1/G ⇒1/0,1= 10Ω
 
 • R= 1/G ⇒1/0,5= 2Ω
 
 • R= 1/G ⇒1/0,02= 50Ω
 
-Sección 2 – 4 Fuentes de voltaje y de corriente
+18) ¿En qué principio se basan los generadores eléctricos?:
 
-¿En qué principio se basan los generadores eléctricos?
-• Inducción electromagnética
+Inducción electromagnética
 
-Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?
-image
+20) Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?:
 
-Sección 2 – 5 Resistores 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+
+22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21:
 
 • (a) 27kΩ±5%
 
@@ -290,9 +298,10 @@ Sección 2 – 5 Resistores 22. Encuentre las resistencias mínima y máxima den
 
 1800*0.1=180Ω ⇒1800-180=1640Ω mínima
 
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: (a) café, negro, negro, oro
-(b) verde, café, verde, plata
+24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
+(a) café, negro, negro, oro 
+(b) verde, café, verde, plata
 (c) azul, gris, negro, oro
 
 • Solución: 10Ω ± 5%
@@ -301,9 +310,10 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 
 • Solución: 68Ω ± 5%
 
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: (a) rojo, gris, violeta, rojo, café
-(b) azul, negro, amarillo, oro, café
+26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
 
+(a) rojo, gris, violeta, rojo, café
+(b) azul, negro, amarillo, oro, café
 (c) blanco, naranja, café, café, café
 
 • Solución: 27,8kΩ ± 1%
@@ -312,9 +322,13 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 
 • Solución: 9,31kΩ ± 1%
 
-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
 
-Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: (a) 4R7J (b) 5602M (c) 1501F
+30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
+
+(a) 4R7J 
+(b) 5602M 
+(c) 1501F
 
 a) 4.7Ω ±5%
 
@@ -322,42 +336,39 @@ b) 5602 MΩ
 
 c) 1501 Ω ± 1%
 
-Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
-image
+32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva:
 
-WhatsApp Image 2022-05-19 at 12 46 19 AM
 
-¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
-image
+
+34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?:
+
+
 
 El R5 (resistor 5) siempre tendra corriente sin importar donde se coloque los interruptores
 
-Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
-WhatsApp Image 2022-05-19 at 12 52 25 AM
+36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador:
 
-Sección 2-7 Mediciones de circuitos básicos
 
-Explique cómo mediría la resistencia de R2 en la figura 2-72
-image
 
-WhatsApp Image 2022-05-19 at 12 55 11 AM
+38) Explique cómo mediría la resistencia de R2 en la figura 2-72:
 
-image
 
-En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
-image
 
-Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
-image
+40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor:
 
-image
 
-¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
-image
+
+42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70:
+
+
+
+44) ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?:
+
+
 
 10 OHMS.
 
-46.¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?:
 
 La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.999 recuentos de solución
 
