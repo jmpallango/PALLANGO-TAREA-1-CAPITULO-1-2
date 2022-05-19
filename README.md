@@ -387,7 +387,7 @@ La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.
 
 # VIDEO:
 
-
+https://youtu.be/Cc__eGQqNig
 
 # CONCLUSIONES:
 
