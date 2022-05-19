@@ -187,26 +187,18 @@ Capitulo 1:
 
 (a) 9.81x10^-3 (b) 4.82x10^-4 (c) 4.38x10^-7
 
-9.81x10^-3 = Esta expresada en notación de ingenieria
-4.82x10^-4 = 482x10^-6
-4.38x10^-7 =438x10^-9
+![image](https://user-images.githubusercontent.com/105695077/169225662-188b4b8a-6481-4286-a4e6-145523dcb2a9.png)
 
 18) Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
 (a) (32x10^-3)(56x10^3) (b) (1.2x10^-6)(1.2x10^-6) (c) 100(55x10^-3)
 
-(32x10^-3)(56x10^3) = 1.792x10^3
-(1.2x10^-6)(1.2x10^-6) = 1.44x10^-12
-100(55x10^-3) = 5.5x10^0
+![image](https://user-images.githubusercontent.com/105695077/169225758-30f306da-d2b8-4ddc-9ed6-cfb791709153.png)
 
 20) Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 Resolución
 
-(a) 89x 10^3=89 kΩ
-
-(b)450x 10^3=450 kΩ
-
-(c) 12.04x 10^12=12.04 TΩ
+![image](https://user-images.githubusercontent.com/105695077/169225830-3df06ee5-83d4-4a1c-bc4f-7b59fb6b798f.png)
 
 22) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
@@ -216,9 +208,14 @@ Resolución
 5.5x10^3 V = 5.5 kV
 20x10^-12 F = 20 pF
 
-24) Exprese cada cantidad en notación de ingeniería:
+24) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-(a) 5 uA (b) 43 mV (c) 275 kΩ (d) 10 MW
+(a) 2.5 x10^-12 A (b) 8 x10^9 Hz (c)4.7 x10^3 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/169227202-d9f90dab-bd1f-4fc2-b866-3228d6344645.png)
+
+
+
 
 
 
