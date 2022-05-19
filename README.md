@@ -115,6 +115,13 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/105695077/169217137-70ed7c30-4fc3-48e6-84fa-c753f573a872.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169217791-9feee729-2732-4a2d-93b1-eb4f980511b6.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169218013-769b9fc5-01d2-429e-b811-9ea2cebebb65.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169218256-7fc3f2fa-ae78-4a6a-9a87-6405220bd5f8.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169218313-8f894c0f-e335-4a2d-a5e0-0252230c0751.png)
 
 
 
