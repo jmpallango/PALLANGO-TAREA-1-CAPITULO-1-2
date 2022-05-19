@@ -140,6 +140,7 @@ Capitulo 1:
 SECCIÓN 1–2 Notación científica
 
 Exprese cada número fraccionario en notación científica:
+
 (a) 1/500 (b) 1/2000 (c) 1/5,000,000
 
 1/500 = 2 x 10^-3
@@ -147,6 +148,7 @@ Exprese cada número fraccionario en notación científica:
 1/5,000,000 =2 x 10^-1
 
 Exprese cada uno de los números siguientes en notación científica:
+
 (a) 0.0002 (b) 0.6 (c) 7.8 x 10^-2
 
 0.0002 = 2x10^-4
@@ -154,6 +156,7 @@ Exprese cada uno de los números siguientes en notación científica:
 7.8x10^-2 = 7.8x10^-2
 
 Exprese cada uno de los números siguientes como un número decimal regular:
+
 (a) 2x10^5 (b) 5.4x10^-9 (c) 1.0x10^1
 
 2x10^5 = 200000
@@ -161,6 +164,7 @@ Exprese cada uno de los números siguientes como un número decimal regular:
 1.0x10^1= 10
 
 Exprese cada número de los siguientes como un número decimal regular:
+
 (a) 4.5x10^-6 (b) 8x10^-9 (c) 4.0x10^-12
 
 4.5x10^-6 = 0.0000045
@@ -168,6 +172,7 @@ Exprese cada número de los siguientes como un número decimal regular:
 4.0x10^-12 = 0.000000000004
 
 Efectúe las siguientes sustracciones:
+
 (a) (3.2x10^12)-(1.1x10^12) (b) (2.6x10^8)-(1.3x10^7) (c) (1.5x10^-12)-(8x10^-13)
 
 (3.2x10^12)-(1.1x10^12)= 2.1x10^12
@@ -175,6 +180,7 @@ Efectúe las siguientes sustracciones:
 (1.5x10^-12)-(8x10^-13)=7x10^-13
 
 Realice las siguientes divisiones:
+
 (a) (1.0x10^3)/(2.5x10^2) (b) (2.5x10^-6)/(5.0x10^-8) (c) (4.21x10^8)/(2x10^-5)
 
 (1.0x10^3)/(2.5x10^2) = 4x10^0
@@ -184,6 +190,7 @@ Realice las siguientes divisiones:
 SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 Exprese cada número en notación de ingeniería:
+
 (a) 2.35x10^5 (b) 7.32x10^7 (c) 1.333x10^9
 
 2.35x10^5 = 235x10^3
@@ -191,6 +198,7 @@ Exprese cada número en notación de ingeniería:
 1.333x10^9 = Esta expresada en notación de ingenieria
 
 Exprese cada número en notación de ingeniería:
+
 (a) 9.81x10^-3 (b) 4.82x10^-4 (c) 4.38x10^-7
 
 9.81x10^-3 = Esta expresada en notación de ingenieria
@@ -198,6 +206,7 @@ Exprese cada número en notación de ingeniería:
 4.38x10^-7 =438x10^-9
 
 Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
 (a) (32x10^-3)(56x10^3) (b) (1.2x10^-6)(1.2x10^-6) (c) 100(55x10^-3)
 
 (32x10^-3)(56x10^3) = 1.792x10^3
@@ -214,6 +223,7 @@ Resolución
 (c) 12.04x 10^12=12.04 TΩ
 
 Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
 (a) 31x10^-3 A (b) 5.5x10^3 V (c) 20x10^-12 F
 
 31x10^-3 A = 31mA
@@ -221,14 +231,17 @@ Exprese cada uno de los siguientes números como una cantidad precedida por un p
 20x10^-12 F = 20 pF
 
 Exprese cada cantidad en notación de ingeniería:
+
 (a) 5 uA (b) 43 mV (c) 275 kΩ (d) 10 MW
 
 SECCIÓN 1–4 Conversiones de unidades métricas
 
 Determine lo siguiente:
+
 (a) El número de microamperes en 1 miliampere (b) El número de milivolts en 0.05 kilovolts (c) El número de megohms en 0.02 kilohms (d) El número de kilowatts en 155 miliwatts
 
 Realice las siguientes operaciones:
+
 (a) 10 kΩ/(2.2kΩ+10kΩ) (b) 2250mV/50uV (c) 1MV/2KW
 
 
