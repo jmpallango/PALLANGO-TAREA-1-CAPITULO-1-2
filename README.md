@@ -241,24 +241,17 @@ Capitulo 2:
 2) ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
 
 
-
 4) ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
-
 
 
 6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
-
-
 8) ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-
-
 
 10) Determine la corriente en cada uno de los siguientes casos:
 
 
-
-12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
+12)¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
 
 • t= Q/I t= Q/I⇒ 10C/5A
 
@@ -371,20 +364,3 @@ El R5 (resistor 5) siempre tendra corriente sin importar donde se coloque los in
 46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?:
 
 La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.999 recuentos de solución
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
