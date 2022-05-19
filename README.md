@@ -392,7 +392,9 @@ La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.
 # CONCLUSIONES:
 
 •	En conclusión un circuito eléctrico es un medio para poder hacer que exista una circulación de electrones y que estos me desarrollen un trabajo.
+
 •	Existen varios tipos de circuitos eléctricos dependiendo de varios factores, como son tipo de corriente eléctrica, tipo de carga, tipo de conexión
+
 •	Todo equipo o herramienta debe ser utilizado de la mejor manera para evitar accidentes y perjudicar el trabajo que se esté desarrollando.
 
 # BIBLIOGRAFÍA:
