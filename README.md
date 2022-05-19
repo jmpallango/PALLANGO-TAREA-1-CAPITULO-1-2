@@ -238,13 +238,22 @@ Resolución
 
 Capitulo 2:
 
-¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
-¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
-Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-Determine la corriente en cada uno de los siguientes casos:
+2) ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
 
-¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
+
+4) ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
+
+
+6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+
+8) ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito? 
+
+
+10) Determine la corriente en cada uno de los siguientes casos:
+
+
+12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? • I= Q/t despejo la fórmula para T:
 
 t= Q/I t= Q/I⇒ 10C/5A
 t= 2
