@@ -236,6 +236,9 @@ Resolución
 
 ![image](https://user-images.githubusercontent.com/105695077/169228663-053513d6-3437-4c1c-8808-3c9950b4019f.png)
 
+Capitulo 2:
+
+
 
 
 
