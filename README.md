@@ -133,6 +133,8 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/105695077/169219420-d3410b99-8211-4e4c-ac98-7e9d256a33f4.png)
 
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 
 
 
