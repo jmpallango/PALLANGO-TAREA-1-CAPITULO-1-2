@@ -16,7 +16,9 @@
 ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELECTRICOS 
 
      MGS. DARWIN OMAR ALULEMA FLORES
+     
            Sangolquí- Ecuador
+           
         Martes 17 de mayo de 2022 
         
 # OBJETIVOS:
