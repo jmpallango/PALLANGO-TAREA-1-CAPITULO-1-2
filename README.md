@@ -299,8 +299,10 @@ Inducción electromagnética
 
 24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
-(a) café, negro, negro, oro 
+(a) café, negro, negro, oro
+
 (b) verde, café, verde, plata
+
 (c) azul, gris, negro, oro
 
 Solución: 10Ω ± 5%
@@ -310,11 +312,15 @@ Solución: 68Ω ± 5%
 26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
 
 (a) rojo, gris, violeta, rojo, café
+
 (b) azul, negro, amarillo, oro, café
+
 (c) blanco, naranja, café, café, café
 
 Solución: 27,8kΩ ± 1%
+
 Solución: 60,4kΩ ± 1%
+
 Solución: 9,31kΩ ± 1%
 
 28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?:
@@ -322,7 +328,9 @@ Solución: 9,31kΩ ± 1%
 30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
 (a) 4R7J 
+
 (b) 5602M 
+
 (c) 1501F
 
 a) 4.7Ω ±5%
@@ -333,10 +341,13 @@ c) 1501 Ω ± 1%
 
 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva:
 
+![image](https://user-images.githubusercontent.com/105695077/169326692-e1c5deb2-de0b-4fe7-9849-2508918a0fc5.png)
+
+![image](https://user-images.githubusercontent.com/105695077/169326724-7d89f39c-dbff-4559-b797-2c83febafbcd.png)
 
 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?:
 
-
+![image](https://user-images.githubusercontent.com/105695077/169326819-88d67dc7-7dde-4046-8ae4-0d28c77086ad.png)
 
 El R5 (resistor 5) siempre tendra corriente sin importar donde se coloque los interruptores
 
