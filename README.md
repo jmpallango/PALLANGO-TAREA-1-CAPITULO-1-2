@@ -30,7 +30,9 @@ Objetivo General:
 Objetivos Específicos:
 
 •	Comprender el tipo de notaciones, cantidades y unidades que son utilizadas al momento de  trabajar con circuitos eléctricos.
+
 •	Analizar las estructuras y cargas que son utilizadas al momento de trabajar con circuitos eléctricos.
+
 •	Observar las diferentes herramientas utilizadas al momento de trabajar con circuitos eléctricos.
 
 # Marco Teórico: (Capitulo 1) 
