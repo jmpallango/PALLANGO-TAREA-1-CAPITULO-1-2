@@ -143,7 +143,6 @@ Capitulo 1:
 
 ![image](https://user-images.githubusercontent.com/105695077/169222498-75b1b1ec-7ef3-43ba-8137-82e398a973bb.png)
 
-3)
 4) Exprese cada uno de los números siguientes en notación científica:
 
 (a) 0.0002 (b) 0.6 (c) 7.8 x 10^-2
