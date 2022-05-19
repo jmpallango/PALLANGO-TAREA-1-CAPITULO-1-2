@@ -136,7 +136,7 @@ Objetivos Específicos:
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capitulo 1:
-1)
+
 2) Exprese cada número fraccionario en notación científica
 
 (a) 1/500 (b) 1/2000 (c) 1/5,000,000
