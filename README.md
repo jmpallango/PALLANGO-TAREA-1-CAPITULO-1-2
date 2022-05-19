@@ -37,7 +37,7 @@ Objetivos Específicos:
 
 •	Observar las diferentes herramientas utilizadas al momento de trabajar con circuitos eléctricos.
 
-# Marco Teórico: 
+# MARCO TEORICO: 
 
 (Capitulo 1) 
 
